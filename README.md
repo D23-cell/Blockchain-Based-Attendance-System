@@ -22,7 +22,7 @@ To revolutionize attendance systems with a secure, transparent, and decentralize
 
 - **Contract Address**:0x79ed3f98066929F70D2f49BC6f2C7c10b10a2438
 - **Transaction Hash**: `0x8bacd60bb4579b7ef49681e3235d7d94e15fc7941b943fdd7057d6b9c33c1852`
-- **Block Explorer**: [View Transaction](https://sepolia.etherscan.io/tx/0xYourTransactionHashHere)
+- **Block Explorer**: [View Transaction]https://scan.test2.btcs.network/address/0x79ed3f98066929f70d2f49bc6f2c7c10b10a2438
 
 ## 📸 Deployment Screenshot
 
