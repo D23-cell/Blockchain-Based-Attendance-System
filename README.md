@@ -1,5 +1,4 @@
 # Blockchain-Based-Attendance-System
-# Blockchain Based Attendance System
 
 ## 📄 Project Description
 A decentralized attendance tracking system using blockchain to eliminate tampering, improve transparency, and make attendance immutable and self-verifiable.
