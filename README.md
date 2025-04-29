@@ -20,7 +20,7 @@ To revolutionize attendance systems with a secure, transparent, and decentralize
 
 ## 🔗 Smart Contract Info
 
-- **Contract Address**: `0xf554C3BE9C784981cC3d48ce03818a90004709d7`
+- **Contract Address**:0x79ed3f98066929F70D2f49BC6f2C7c10b10a2438
 - **Transaction Hash**: `0xYourTransactionHashHere`
 - **Block Explorer**: [View Transaction](https://sepolia.etherscan.io/tx/0xYourTransactionHashHere)
 
